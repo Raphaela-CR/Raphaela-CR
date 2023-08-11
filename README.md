@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Raphaela-CR
-- 👀 I’m interested in developing Product Design projects and learn Front-End development.
-- 🌱 I’m currently learning CSS/JavaScript/Java
-- 💞️ I’m looking to collaborate on Product Design/UX Research/UI Interfaces/Front-End
-- 📫 How to reach me is easy! Just send me and email or call me here on Github.
+![ABOUT ME](https://github.com/Raphaela-CR/Raphaela-CR/assets/141253307/e73ac2d1-184a-49f6-b558-6f1064a0c445)
+
 
 <!---
 Raphaela-CR/Raphaela-CR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
