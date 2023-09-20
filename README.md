@@ -1,5 +1,4 @@
-![ABOUTME-GITHUB](https://github.com/Raphaela-CR/Raphaela-CR/assets/141253307/53c381cc-18eb-40a1-8599-e94602aa76d8)
-
+![ABOUTME-GITHUB](https://github.com/Raphaela-CR/Raphaela-CR/assets/141253307/662fad33-a595-4148-936e-e0b17f87f5cf)
 
 <!---
 Raphaela-CR/Raphaela-CR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
