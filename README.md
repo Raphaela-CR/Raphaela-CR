@@ -1,4 +1,4 @@
-![ABOUT ME](https://github.com/Raphaela-CR/Raphaela-CR/assets/141253307/e73ac2d1-184a-49f6-b558-6f1064a0c445)
+![ABOUTME-GITHUB](https://github.com/Raphaela-CR/Raphaela-CR/assets/141253307/53c381cc-18eb-40a1-8599-e94602aa76d8)
 
 
 <!---
